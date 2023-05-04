@@ -208,7 +208,9 @@ figcaption {
 }
 
 
-
+html.sr .load-hidden {
+    visibility: hidden;
+}
 
 
 .location-holder, .media-holder {
@@ -234,6 +236,7 @@ figcaption {
   max-width: 250px;
   margin: 0 auto;
 }
+
 
 
 
