@@ -89,7 +89,7 @@ h2 {
    text-transform: uppercase;
 }
 h3 {
-  color: darkgrey;
+  color: #8C6D8f;
 }
 h4 {
   font-family: 'Abril Fatface', cursive;
@@ -180,7 +180,8 @@ button {
   border-color: lightgray;
   min-width: 5rem;
 border-radius: 5pt;
-  color: lightgray;
+  color: white;
+  font-weight: bold;
   font-family: 'Roboto Slab', serif;
 }
 
