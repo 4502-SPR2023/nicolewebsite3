@@ -8,6 +8,7 @@ nav {
   margin: 0;
   border-bottom: 0px solid #8e6c88;
   left: 0px;
+  z-index: 20;
 }
 
 .sticky {
