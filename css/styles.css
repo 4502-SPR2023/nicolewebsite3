@@ -1,7 +1,6 @@
 
 
 nav {
-  color: black;
   background-color: lightgray;
   padding: 0rem;
   display: block;
@@ -41,9 +40,9 @@ nav li, nav li a {
 
 .active {
   background-color: #8e6c88;
-  color: #000;
   padding: 1rem;
   font-weight: bold;
+  color: white;
 }
 
 .imgcenter {
